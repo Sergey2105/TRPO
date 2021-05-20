@@ -3,7 +3,7 @@ name: User Story
 about: User Story
 title: ''
 labels: good first issue
-assignees: ''
+assignees: Sergey2105
 
 ---
 
