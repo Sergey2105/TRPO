@@ -2,7 +2,7 @@
 name: User Story
 about: User Story
 title: ''
-labels: good first issue
+labels: User Story
 assignees: Sergey2105
 
 ---
